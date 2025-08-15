@@ -18,8 +18,8 @@ A RESTful API for interacting with a Gemini-powered chatbot.
 ### Installation
 
 ```bash
-git clone https://github.com/odanicola/gemini-chatbot-api.git
-cd gemini-chatbot-api
+git clone git@github.com:odanicola/gemini-ai-chatbot.git
+cd gemini-ai-chatbot
 npm install
 ```
 
